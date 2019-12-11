@@ -638,3 +638,4 @@ Signed,
 - Wael Nasreddine ([@kalbasit](https://github.com/kalbasit)), VP of Engineering at [Publica](https://getpublica.com/)
 - Stephen Jennings ([@jennings](https://github.com/jennings)), Software Developer
 - Raathigeshan Kugarajan ([@raathigesh](https://github.com/raathigesh)), Software Developer and Maker, Sri Lanka
+- Pritam Kumar([@BradPrit09](https://github.com/BradPrit09)), Reserach Associate and Full Stack Developer , India
